@@ -1,4 +1,5 @@
 # upload_to_s3
+### How to use - 
 #### Install AWS sdk for php
 `composer require aws/aws-sdk-php`
 
