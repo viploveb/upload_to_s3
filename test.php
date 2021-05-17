@@ -22,6 +22,6 @@ function upload_to_s3($file_name, $bucket, $object_name=None){
 ]);
 }
 
-upload_to_s3("file_name.jpeg");
+upload_to_s3("file_name.jpeg","vetshot-ocr-ejfnoancoa");
 
 ?>
